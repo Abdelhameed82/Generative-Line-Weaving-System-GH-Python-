@@ -22,14 +22,4 @@ This system explores generative weaving patterns by connecting random points on 
 - Grasshopper
 - GHPython (`ghpythonlib.components`)
 
-## 📸 Output
 
-### Pattern Result
-![Result1](https://github.com/Abdelhameed82/Generative-Line-Weaving-System-GH-Python-/blob/main/result.jpg?raw=true)
-
-
-### Pattern Variation 
-![Result1](https://github.com/Abdelhameed82/Generative-Line-Weaving-System-GH-Python-/blob/main/variation.jpg?raw=true)
-
-### Grasshopper Definition
-![Definition](https://github.com/Abdelhameed82/Generative-Line-Weaving-System-GH-Python-/blob/main/Definition.png?raw=true)
